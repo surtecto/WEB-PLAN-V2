@@ -83,3 +83,13 @@ reemplazan los valores "ll" en js/datos.js (y "p":"aprox" pasa a "sig").
   · Botón "AA" de la cabecera: agranda todo el texto.
   · Las animaciones se desactivan solas si el dispositivo pide
     "reducir movimiento".
+
+6) ACTUALIZACIÓN 17-10-2026 · CENSO 2022
+  · Sección Territorio (datos): "Dónde vivimos" compara 2022 (73,9 / 13,8 / 12,3 %,
+    cálculo CMDOT sobre radios urbanos) con 2010; nuevas fichas de población
+    (26.510 hab.), viviendas deshabitadas (15,3 %), departamentos (93 → 386),
+    desocupación (4,9 %), vivienda propia y servicios. Fuente: INDEC 2022 definitivo.
+  · Ocasión Acceso a la vivienda: clave actualizada a 2022 y se suma el mapa de
+    viviendas por radio censal 2022 (img/149-274.webp).
+  · El texto íntegro del Plan (lectura "Completa") no se tocó: sigue citando 2010
+    donde el borrador lo hace.
